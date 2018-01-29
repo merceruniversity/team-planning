@@ -20,11 +20,11 @@ This Repo focuses mostly on Issues/Epics and groups of those Issues in Projects.
 #### Comments to serve as continuing notes
 - General notes about project status
 - 1-2 lines to summarize meetings
-- if you're waiting or not working on it anymore, why/who is in the way and why
+- if you're waiting or not working on it anymore, why/who is in the way and why (using labels is A-ok)
 - paper trails 
- - links to resources you investigated
- - screenshots of tabs/browser history
- - what you learned in the most pertinent ones
+-- links to resources you investigated
+-- screenshots of tabs/browser history
+-- what you learned in the most pertinent ones
 
 ### Projects
 Projects by Quarter and who is assigned to each, what their general status is, like:  
